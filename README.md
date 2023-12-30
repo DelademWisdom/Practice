@@ -1,6 +1,7 @@
 # RANDU
 
 Welcome to RANDU! This is a fun Python game that challenges you to guess a random number between 0 and 10.
+
  /                                  \
 | Hey there, welcome the RANDU!!!!!! |
 | Let's see how lucky you are!!!     |
